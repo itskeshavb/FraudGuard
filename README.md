@@ -1,4 +1,4 @@
-# IEEE-CIS Fraud Detection App
+# Fraud Detection App
 
 A modern web application for detecting fraudulent transactions using machine learning.
 
@@ -8,19 +8,6 @@ A modern web application for detecting fraudulent transactions using machine lea
 - **Modern UI**: Beautiful, responsive interface built with Next.js and Tailwind CSS
 - **AI-Powered**: Uses LightGBM models trained on IEEE-CIS fraud detection dataset
 - **Detailed Results**: View transaction amounts, fraud probabilities, and risk assessments
-
-## Recent Fixes
-
-### ✅ Fixed Issues
-
-1. **Tooltip Provider Error**: Fixed syntax error in `fraud-detection-app.tsx` where `</Tool>` was incorrectly used instead of `</TooltipProvider>`
-2. **Backend CSV Processing**: 
-   - Fixed import path issues for the `src.features` module
-   - Updated API response format to return results array directly
-   - Added proper handling for missing columns in CSV files
-3. **Frontend-Backend Integration**: 
-   - Created Next.js API route at `/api/predict` to proxy requests to FastAPI backend
-   - Updated frontend to use correct API endpoint
 
 ## Setup and Installation
 
