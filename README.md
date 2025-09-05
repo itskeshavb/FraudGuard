@@ -2,6 +2,12 @@
 
 A modern web application for detecting fraudulent transactions using machine learning.
 
+#Images
+<img width="1890" height="990" alt="Screenshot 2025-09-05 172204" src="https://github.com/user-attachments/assets/13d8b1ed-d36f-4c7a-918e-07c7b502790d" />
+<img width="1895" height="982" alt="Screenshot 2025-09-05 172243" src="https://github.com/user-attachments/assets/0191e33a-6f41-4bfd-8a13-a1b57ac4d145" />
+<img width="1891" height="983" alt="Screenshot 2025-09-05 172257" src="https://github.com/user-attachments/assets/baa5b37c-09cd-45ce-8e52-c2f1e29e868d" />
+
+
 ## Features
 
 - **Real-time Fraud Detection**: Upload CSV files and get instant fraud analysis
